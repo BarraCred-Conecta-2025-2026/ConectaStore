@@ -77,8 +77,4 @@ public class CategoriasController : ControllerBase
         _context.SaveChanges();
         return NoContent();
     }
-
-
-
-
 }
